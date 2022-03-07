@@ -1,4 +1,4 @@
-# custom-bufferingSlider
+# matrix puzzle
 
 ## How to 8 puzzle
 <img src="https://user-images.githubusercontent.com/43785575/157108968-acb6e3c1-6a81-4244-b584-6e2383058ffb.gif" width="300" height="649">
